@@ -1,4 +1,6 @@
 # React Native RefreshableListView
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/soldotno/react-native-refreshable-listview.svg)](https://greenkeeper.io/)
 A pull-to-refresh ListView which shows a loading spinner while your data reloads
 
 In action (from [ReactNativeHackerNews](https://github.com/jsdf/ReactNativeHackerNews)):
